@@ -155,8 +155,9 @@ No known bugs at this time.
 
 ## Authors
 
-Mahmoud Elbanna
-Khadija Mohamed
+- Mahmoud Elbanna
+
+- Khadija Mohamed
 
 Second part of Airbnb: Joann Vuong
 ## License
